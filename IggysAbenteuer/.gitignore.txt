@@ -1,0 +1,33 @@
+# Unity
+/[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+/UserSettings/
+
+# Never commit builds
+/B[uU]ild[s]/
+Builds/
+
+# Visual Studio / Rider
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+ehthumbs.db
