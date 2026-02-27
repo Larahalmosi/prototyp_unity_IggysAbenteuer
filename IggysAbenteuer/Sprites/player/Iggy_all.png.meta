@@ -1,0 +1,431 @@
+fileFormatVersion: 2
+guid: 7727df88bff3a91428176019d542a7b0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -63218399326970023
+    second: Iggy_all_0
+  - first:
+      213: -3944197668784957781
+    second: Iggy_all_1
+  - first:
+      213: -1479966939060465251
+    second: Iggy_all_2
+  - first:
+      213: -4455965714695482126
+    second: Iggy_all_3
+  - first:
+      213: -6993909734771413051
+    second: Iggy_all_4
+  - first:
+      213: -7541136502829726839
+    second: Iggy_all_5
+  - first:
+      213: -1936270091229210132
+    second: Iggy_all_6
+  - first:
+      213: -5539128917370053217
+    second: Iggy_all_7
+  - first:
+      213: -1498843733731624516
+    second: Iggy_all_8
+  - first:
+      213: -2116243224407546500
+    second: Iggy_all_9
+  - first:
+      213: 853341478828207852
+    second: Iggy_all_10
+  - first:
+      213: -5001843724305130370
+    second: Iggy_all_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Iggy_all_0
+      rect:
+        serializedVersion: 2
+        x: 3158
+        y: 1687
+        width: 528
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95fd8d463376f1ff0800000000000000
+      internalID: -63218399326970023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_all_3
+      rect:
+        serializedVersion: 2
+        x: 2445
+        y: 1692
+        width: 525
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba616241e156349c0800000000000000
+      internalID: -3944197668784957781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_all_6
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 1514
+        width: 991
+        height: 425
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d919afdf8e9167be0800000000000000
+      internalID: -1479966939060465251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_all_9
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1491
+        width: 991
+        height: 425
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4914c8aca3922c0800000000000000
+      internalID: -4455965714695482126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_all_1
+      rect:
+        serializedVersion: 2
+        x: 3176
+        y: 1399
+        width: 519
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cfadcbc624a0fe90800000000000000
+      internalID: -6993909734771413051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_all_4
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 1406
+        width: 527
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9834a1a2e40885790800000000000000
+      internalID: -7541136502829726839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_all_7
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1013
+        width: 999
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9d11f5c9cf025e0800000000000000
+      internalID: -1936270091229210132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_all_10
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1023
+        width: 1013
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d5013e89f0123b0800000000000000
+      internalID: -5539128917370053217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_all_2
+      rect:
+        serializedVersion: 2
+        x: 3129
+        y: 1053
+        width: 576
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 1}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb93b1db099033be0800000000000000
+      internalID: -1498843733731624516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_all_5
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 1096
+        width: 576
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c756cdeeff791a2e0800000000000000
+      internalID: -2116243224407546500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_all_8
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 445
+        width: 1018
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee69a5cd8da7db00800000000000000
+      internalID: 853341478828207852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iggy_all_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 509
+        width: 1018
+        height: 412
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c96c632a1e59ab0800000000000000
+      internalID: -5001843724305130370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 548979ff30aa0154ba27cfe39e2ac029
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Iggy_all_0: -63218399326970023
+      Iggy_all_1: -6993909734771413051
+      Iggy_all_10: -5539128917370053217
+      Iggy_all_11: -5001843724305130370
+      Iggy_all_12: 1193687828
+      Iggy_all_13: -1928379974
+      Iggy_all_2: -1498843733731624516
+      Iggy_all_3: -3944197668784957781
+      Iggy_all_4: -7541136502829726839
+      Iggy_all_5: -2116243224407546500
+      Iggy_all_6: -1479966939060465251
+      Iggy_all_7: -1936270091229210132
+      Iggy_all_8: 853341478828207852
+      Iggy_all_9: -4455965714695482126
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

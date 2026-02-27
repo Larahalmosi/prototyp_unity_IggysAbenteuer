@@ -1,0 +1,1079 @@
+fileFormatVersion: 2
+guid: 6f9e207aa1015464ca846fc75be3faa0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4736743004795513132
+    second: Hochschule_Furtwangen_HFU_logo.svg_0
+  - first:
+      213: -8041974912788865393
+    second: Hochschule_Furtwangen_HFU_logo.svg_1
+  - first:
+      213: -1189788437533591823
+    second: Hochschule_Furtwangen_HFU_logo.svg_2
+  - first:
+      213: 7201666934340600030
+    second: Hochschule_Furtwangen_HFU_logo.svg_3
+  - first:
+      213: 3518405985152663013
+    second: Hochschule_Furtwangen_HFU_logo.svg_4
+  - first:
+      213: -7964627300269130879
+    second: Hochschule_Furtwangen_HFU_logo.svg_5
+  - first:
+      213: 8618655228957986880
+    second: Hochschule_Furtwangen_HFU_logo.svg_6
+  - first:
+      213: -3301167868798258762
+    second: Hochschule_Furtwangen_HFU_logo.svg_7
+  - first:
+      213: 1568337872294592486
+    second: Hochschule_Furtwangen_HFU_logo.svg_8
+  - first:
+      213: 1030121983013697722
+    second: Hochschule_Furtwangen_HFU_logo.svg_9
+  - first:
+      213: 789383841120887248
+    second: Hochschule_Furtwangen_HFU_logo.svg_10
+  - first:
+      213: -4027800264354501390
+    second: Hochschule_Furtwangen_HFU_logo.svg_11
+  - first:
+      213: 16708823453423849
+    second: Hochschule_Furtwangen_HFU_logo.svg_12
+  - first:
+      213: -7833607962370843021
+    second: Hochschule_Furtwangen_HFU_logo.svg_13
+  - first:
+      213: 2691093303278626085
+    second: Hochschule_Furtwangen_HFU_logo.svg_14
+  - first:
+      213: -13420319985066787
+    second: Hochschule_Furtwangen_HFU_logo.svg_15
+  - first:
+      213: 7305532308531478093
+    second: Hochschule_Furtwangen_HFU_logo.svg_16
+  - first:
+      213: 8505699065589765877
+    second: Hochschule_Furtwangen_HFU_logo.svg_17
+  - first:
+      213: 5845087112504887564
+    second: Hochschule_Furtwangen_HFU_logo.svg_18
+  - first:
+      213: 7756508545137440669
+    second: Hochschule_Furtwangen_HFU_logo.svg_19
+  - first:
+      213: 3755590837254170770
+    second: Hochschule_Furtwangen_HFU_logo.svg_20
+  - first:
+      213: 764450722945582771
+    second: Hochschule_Furtwangen_HFU_logo.svg_21
+  - first:
+      213: 1824093430098245798
+    second: Hochschule_Furtwangen_HFU_logo.svg_22
+  - first:
+      213: 6534405632965068978
+    second: Hochschule_Furtwangen_HFU_logo.svg_23
+  - first:
+      213: -5861560978955258373
+    second: Hochschule_Furtwangen_HFU_logo.svg_24
+  - first:
+      213: 3569928258578884889
+    second: Hochschule_Furtwangen_HFU_logo.svg_25
+  - first:
+      213: -1343469152139184956
+    second: Hochschule_Furtwangen_HFU_logo.svg_26
+  - first:
+      213: 8738100100602616818
+    second: Hochschule_Furtwangen_HFU_logo.svg_27
+  - first:
+      213: -5674626783635326471
+    second: Hochschule_Furtwangen_HFU_logo.svg_28
+  - first:
+      213: -4890090173763371532
+    second: Hochschule_Furtwangen_HFU_logo.svg_29
+  - first:
+      213: -4707657660115570186
+    second: Hochschule_Furtwangen_HFU_logo.svg_30
+  - first:
+      213: -8689636423834342127
+    second: Hochschule_Furtwangen_HFU_logo.svg_31
+  - first:
+      213: -3006441824982704739
+    second: Hochschule_Furtwangen_HFU_logo.svg_32
+  - first:
+      213: -610853804892004099
+    second: Hochschule_Furtwangen_HFU_logo.svg_33
+  - first:
+      213: 1564584926484323619
+    second: Hochschule_Furtwangen_HFU_logo.svg_34
+  - first:
+      213: -2167914521468606467
+    second: Hochschule_Furtwangen_HFU_logo.svg_35
+  - first:
+      213: -708382994279422647
+    second: Hochschule_Furtwangen_HFU_logo.svg_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hochschule_Furtwangen_HFU_logo.svg_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1108
+        width: 90
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c292721aaaa4cb140800000000000000
+      internalID: 4736743004795513132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hochschule_Furtwangen_HFU_logo.svg_1
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1105
+        width: 94
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8edd9ecc6a256090800000000000000
+      internalID: -8041974912788865393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hochschule_Furtwangen_HFU_logo.svg_2
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1105
+        width: 89
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f671f648b50d7fe0800000000000000
+      internalID: -1189788437533591823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hochschule_Furtwangen_HFU_logo.svg_3
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1108
+        width: 90
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed04c04bbe571f360800000000000000
+      internalID: 7201666934340600030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hochschule_Furtwangen_HFU_logo.svg_4
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1105
+        width: 90
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5edf1a82a93e3d030800000000000000
+      internalID: 3518405985152663013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hochschule_Furtwangen_HFU_logo.svg_5
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 1105
+        width: 89
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b74173ba5f77190800000000000000
+      internalID: -7964627300269130879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hochschule_Furtwangen_HFU_logo.svg_6
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1108
+        width: 91
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0409a93644d9b9770800000000000000
+      internalID: 8618655228957986880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hochschule_Furtwangen_HFU_logo.svg_7
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 1105
+        width: 94
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1b85c4055ef22d0800000000000000
+      internalID: -3301167868798258762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hochschule_Furtwangen_HFU_logo.svg_8
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1108
+        width: 74
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef39e54cfad3c510800000000000000
+      internalID: 1568337872294592486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hochschule_Furtwangen_HFU_logo.svg_9
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 1108
+        width: 78
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab83ad85c7abb4e00800000000000000
+      internalID: 1030121983013697722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hochschule_Furtwangen_HFU_logo.svg_10
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 701
+        width: 13
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1a171db6474fa00800000000000000
+      internalID: 789383841120887248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hochschule_Furtwangen_HFU_logo.svg_11
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 702
+        width: 342
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fcece0fff06a18c0800000000000000
+      internalID: -4027800264354501390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hochschule_Furtwangen_HFU_logo.svg_12
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 702
+        width: 281
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e85e8e169c5b3000800000000000000
+      internalID: 16708823453423849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hochschule_Furtwangen_HFU_logo.svg_13
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 690
+        width: 355
+        height: 575
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ed63dff0f694390800000000000000
+      internalID: -7833607962370843021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hochschule_Furtwangen_HFU_logo.svg_14
+      rect:
+        serializedVersion: 2
+        x: 2518
+        y: 290
+        width: 1157
+        height: 853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525ea5fe91fa85520800000000000000
+      internalID: 2691093303278626085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hochschule_Furtwangen_HFU_logo.svg_15
+      rect:
+        serializedVersion: 2
+        x: 2886
+        y: 540
+        width: 539
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc94824a4250dff0800000000000000
+      internalID: -13420319985066787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hochschule_Furtwangen_HFU_logo.svg_16
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 907
+        width: 74
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e7821ade6726560800000000000000
+      internalID: 7305532308531478093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hochschule_Furtwangen_HFU_logo.svg_17
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 905
+        width: 94
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f699da2c305a0670800000000000000
+      internalID: 8505699065589765877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hochschule_Furtwangen_HFU_logo.svg_18
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 907
+        width: 89
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09411e92cbed1150800000000000000
+      internalID: 5845087112504887564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hochschule_Furtwangen_HFU_logo.svg_19
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 907
+        width: 97
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97f2321d67a4ab60800000000000000
+      internalID: 7756508545137440669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hochschule_Furtwangen_HFU_logo.svg_20
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 907
+        width: 178
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2982f30f7f98e1430800000000000000
+      internalID: 3755590837254170770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hochschule_Furtwangen_HFU_logo.svg_21
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 907
+        width: 119
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6467dd1efdb9a00800000000000000
+      internalID: 764450722945582771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hochschule_Furtwangen_HFU_logo.svg_22
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 907
+        width: 102
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8312a6f4b705910800000000000000
+      internalID: 1824093430098245798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hochschule_Furtwangen_HFU_logo.svg_23
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 905
+        width: 93
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8c13b6d4fdeaa50800000000000000
+      internalID: 6534405632965068978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hochschule_Furtwangen_HFU_logo.svg_24
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 907
+        width: 79
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5b414785d87aea0800000000000000
+      internalID: -5861560978955258373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hochschule_Furtwangen_HFU_logo.svg_25
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 907
+        width: 102
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 919293e36deea8130800000000000000
+      internalID: 3569928258578884889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hochschule_Furtwangen_HFU_logo.svg_26
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 704
+        width: 94
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c47c049ce90b5de0800000000000000
+      internalID: -1343469152139184956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hochschule_Furtwangen_HFU_logo.svg_27
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 707
+        width: 102
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb593cbeb7f34970800000000000000
+      internalID: 8738100100602616818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hochschule_Furtwangen_HFU_logo.svg_28
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 707
+        width: 21
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9bf78710daf31b0800000000000000
+      internalID: -5674626783635326471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hochschule_Furtwangen_HFU_logo.svg_29
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 707
+        width: 108
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fdb43155e8e22cb0800000000000000
+      internalID: -4890090173763371532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hochschule_Furtwangen_HFU_logo.svg_30
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 707
+        width: 79
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f13aa4ec4a0baeb0800000000000000
+      internalID: -4707657660115570186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hochschule_Furtwangen_HFU_logo.svg_31
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 707
+        width: 90
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11dee0256b5386780800000000000000
+      internalID: -8689636423834342127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hochschule_Furtwangen_HFU_logo.svg_32
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 704
+        width: 90
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d5708c619f646d0800000000000000
+      internalID: -3006441824982704739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hochschule_Furtwangen_HFU_logo.svg_33
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 707
+        width: 21
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df067bd63bfc587f0800000000000000
+      internalID: -610853804892004099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hochschule_Furtwangen_HFU_logo.svg_34
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 707
+        width: 97
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d570c73b586b510800000000000000
+      internalID: 1564584926484323619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hochschule_Furtwangen_HFU_logo.svg_35
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 707
+        width: 99
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df7e3749a350ae1e0800000000000000
+      internalID: -2167914521468606467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hochschule_Furtwangen_HFU_logo.svg_36
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 40
+        width: 1606
+        height: 553
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9452c0d7b615b26f0800000000000000
+      internalID: -708382994279422647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hochschule_Furtwangen_HFU_logo.svg_0: 4736743004795513132
+      Hochschule_Furtwangen_HFU_logo.svg_1: -8041974912788865393
+      Hochschule_Furtwangen_HFU_logo.svg_10: 789383841120887248
+      Hochschule_Furtwangen_HFU_logo.svg_11: -4027800264354501390
+      Hochschule_Furtwangen_HFU_logo.svg_12: 16708823453423849
+      Hochschule_Furtwangen_HFU_logo.svg_13: -7833607962370843021
+      Hochschule_Furtwangen_HFU_logo.svg_14: 2691093303278626085
+      Hochschule_Furtwangen_HFU_logo.svg_15: -13420319985066787
+      Hochschule_Furtwangen_HFU_logo.svg_16: 7305532308531478093
+      Hochschule_Furtwangen_HFU_logo.svg_17: 8505699065589765877
+      Hochschule_Furtwangen_HFU_logo.svg_18: 5845087112504887564
+      Hochschule_Furtwangen_HFU_logo.svg_19: 7756508545137440669
+      Hochschule_Furtwangen_HFU_logo.svg_2: -1189788437533591823
+      Hochschule_Furtwangen_HFU_logo.svg_20: 3755590837254170770
+      Hochschule_Furtwangen_HFU_logo.svg_21: 764450722945582771
+      Hochschule_Furtwangen_HFU_logo.svg_22: 1824093430098245798
+      Hochschule_Furtwangen_HFU_logo.svg_23: 6534405632965068978
+      Hochschule_Furtwangen_HFU_logo.svg_24: -5861560978955258373
+      Hochschule_Furtwangen_HFU_logo.svg_25: 3569928258578884889
+      Hochschule_Furtwangen_HFU_logo.svg_26: -1343469152139184956
+      Hochschule_Furtwangen_HFU_logo.svg_27: 8738100100602616818
+      Hochschule_Furtwangen_HFU_logo.svg_28: -5674626783635326471
+      Hochschule_Furtwangen_HFU_logo.svg_29: -4890090173763371532
+      Hochschule_Furtwangen_HFU_logo.svg_3: 7201666934340600030
+      Hochschule_Furtwangen_HFU_logo.svg_30: -4707657660115570186
+      Hochschule_Furtwangen_HFU_logo.svg_31: -8689636423834342127
+      Hochschule_Furtwangen_HFU_logo.svg_32: -3006441824982704739
+      Hochschule_Furtwangen_HFU_logo.svg_33: -610853804892004099
+      Hochschule_Furtwangen_HFU_logo.svg_34: 1564584926484323619
+      Hochschule_Furtwangen_HFU_logo.svg_35: -2167914521468606467
+      Hochschule_Furtwangen_HFU_logo.svg_36: -708382994279422647
+      Hochschule_Furtwangen_HFU_logo.svg_4: 3518405985152663013
+      Hochschule_Furtwangen_HFU_logo.svg_5: -7964627300269130879
+      Hochschule_Furtwangen_HFU_logo.svg_6: 8618655228957986880
+      Hochschule_Furtwangen_HFU_logo.svg_7: -3301167868798258762
+      Hochschule_Furtwangen_HFU_logo.svg_8: 1568337872294592486
+      Hochschule_Furtwangen_HFU_logo.svg_9: 1030121983013697722
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

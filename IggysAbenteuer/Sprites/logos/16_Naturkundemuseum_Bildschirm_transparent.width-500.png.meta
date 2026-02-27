@@ -1,0 +1,793 @@
+fileFormatVersion: 2
+guid: 0b63f0abed851784c8e6735ca8be03b3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7468999184526583733
+    second: 16_Naturkundemuseum_Bildschirm_transparent.width-500_0
+  - first:
+      213: -2040939746003733382
+    second: 16_Naturkundemuseum_Bildschirm_transparent.width-500_1
+  - first:
+      213: 2009862905246018975
+    second: 16_Naturkundemuseum_Bildschirm_transparent.width-500_2
+  - first:
+      213: -7998759930985732200
+    second: 16_Naturkundemuseum_Bildschirm_transparent.width-500_3
+  - first:
+      213: 4947360134748971894
+    second: 16_Naturkundemuseum_Bildschirm_transparent.width-500_4
+  - first:
+      213: -1968885387663769166
+    second: 16_Naturkundemuseum_Bildschirm_transparent.width-500_5
+  - first:
+      213: 5222078611826671419
+    second: 16_Naturkundemuseum_Bildschirm_transparent.width-500_6
+  - first:
+      213: 6738910306343146569
+    second: 16_Naturkundemuseum_Bildschirm_transparent.width-500_7
+  - first:
+      213: 4244990143987149142
+    second: 16_Naturkundemuseum_Bildschirm_transparent.width-500_8
+  - first:
+      213: -962225508485213485
+    second: 16_Naturkundemuseum_Bildschirm_transparent.width-500_9
+  - first:
+      213: 4055458522287984170
+    second: 16_Naturkundemuseum_Bildschirm_transparent.width-500_10
+  - first:
+      213: -675069768431339176
+    second: 16_Naturkundemuseum_Bildschirm_transparent.width-500_11
+  - first:
+      213: -6084609038302361193
+    second: 16_Naturkundemuseum_Bildschirm_transparent.width-500_12
+  - first:
+      213: -468376336510995386
+    second: 16_Naturkundemuseum_Bildschirm_transparent.width-500_13
+  - first:
+      213: -7049773673430791819
+    second: 16_Naturkundemuseum_Bildschirm_transparent.width-500_14
+  - first:
+      213: -6199050621240645250
+    second: 16_Naturkundemuseum_Bildschirm_transparent.width-500_15
+  - first:
+      213: 9208713277884858597
+    second: 16_Naturkundemuseum_Bildschirm_transparent.width-500_16
+  - first:
+      213: 6029869755573664606
+    second: 16_Naturkundemuseum_Bildschirm_transparent.width-500_17
+  - first:
+      213: 5054970322103320624
+    second: 16_Naturkundemuseum_Bildschirm_transparent.width-500_18
+  - first:
+      213: -1206455727583569349
+    second: 16_Naturkundemuseum_Bildschirm_transparent.width-500_19
+  - first:
+      213: -6428842598707939114
+    second: 16_Naturkundemuseum_Bildschirm_transparent.width-500_20
+  - first:
+      213: -4584554995298233992
+    second: 16_Naturkundemuseum_Bildschirm_transparent.width-500_21
+  - first:
+      213: 6750267485211448118
+    second: 16_Naturkundemuseum_Bildschirm_transparent.width-500_22
+  - first:
+      213: -1782848921808412179
+    second: 16_Naturkundemuseum_Bildschirm_transparent.width-500_23
+  - first:
+      213: 600566083435408533
+    second: 16_Naturkundemuseum_Bildschirm_transparent.width-500_24
+  - first:
+      213: -1559206405733001366
+    second: 16_Naturkundemuseum_Bildschirm_transparent.width-500_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 16_Naturkundemuseum_Bildschirm_transparent.width-500_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 86
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b485c9a60d8c85890800000000000000
+      internalID: -7468999184526583733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Naturkundemuseum_Bildschirm_transparent.width-500_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 86
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74b8774d102da3e0800000000000000
+      internalID: -2040939746003733382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Naturkundemuseum_Bildschirm_transparent.width-500_2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 86
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d6c62e9a774eb10800000000000000
+      internalID: 2009862905246018975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Naturkundemuseum_Bildschirm_transparent.width-500_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 86
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897a7f5d832bef090800000000000000
+      internalID: -7998759930985732200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Naturkundemuseum_Bildschirm_transparent.width-500_4
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 86
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67324af84dd88a440800000000000000
+      internalID: 4947360134748971894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Naturkundemuseum_Bildschirm_transparent.width-500_5
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 86
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b108d8eb2d1da4e0800000000000000
+      internalID: -1968885387663769166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Naturkundemuseum_Bildschirm_transparent.width-500_6
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 86
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ff71764dc887840800000000000000
+      internalID: 5222078611826671419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Naturkundemuseum_Bildschirm_transparent.width-500_7
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 86
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9445dc6283b658d50800000000000000
+      internalID: 6738910306343146569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Naturkundemuseum_Bildschirm_transparent.width-500_8
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 86
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65963678b0c39ea30800000000000000
+      internalID: 4244990143987149142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Naturkundemuseum_Bildschirm_transparent.width-500_9
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 0
+        width: 177
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d25be48ffc75a2f0800000000000000
+      internalID: -962225508485213485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Naturkundemuseum_Bildschirm_transparent.width-500_10
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 88
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e4e4e0a02e74830800000000000000
+      internalID: 4055458522287984170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Naturkundemuseum_Bildschirm_transparent.width-500_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 49
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8597b0e4f9ba1a6f0800000000000000
+      internalID: -675069768431339176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Naturkundemuseum_Bildschirm_transparent.width-500_12
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 49
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7994bda31502f8ba0800000000000000
+      internalID: -6084609038302361193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Naturkundemuseum_Bildschirm_transparent.width-500_13
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 49
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6443019143eff79f0800000000000000
+      internalID: -468376336510995386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Naturkundemuseum_Bildschirm_transparent.width-500_14
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 49
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 579c140023c2a2e90800000000000000
+      internalID: -7049773673430791819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Naturkundemuseum_Bildschirm_transparent.width-500_15
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 49
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e796940dd4c88f9a0800000000000000
+      internalID: -6199050621240645250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Naturkundemuseum_Bildschirm_transparent.width-500_16
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 49
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e000c6bfebebcf70800000000000000
+      internalID: 9208713277884858597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Naturkundemuseum_Bildschirm_transparent.width-500_17
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 12
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5bf6d658966ea350800000000000000
+      internalID: 6029869755573664606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Naturkundemuseum_Bildschirm_transparent.width-500_18
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 12
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0304c1fb9bcd62640800000000000000
+      internalID: 5054970322103320624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Naturkundemuseum_Bildschirm_transparent.width-500_19
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 12
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a552868eec14fe0800000000000000
+      internalID: -1206455727583569349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Naturkundemuseum_Bildschirm_transparent.width-500_20
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 12
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d83d1bc7b928c6a0800000000000000
+      internalID: -6428842598707939114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Naturkundemuseum_Bildschirm_transparent.width-500_21
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 12
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871910495836060c0800000000000000
+      internalID: -4584554995298233992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Naturkundemuseum_Bildschirm_transparent.width-500_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 12
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633d5ea6384cdad50800000000000000
+      internalID: 6750267485211448118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Naturkundemuseum_Bildschirm_transparent.width-500_23
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 12
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1eb6ff95c0247e0800000000000000
+      internalID: -1782848921808412179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Naturkundemuseum_Bildschirm_transparent.width-500_24
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 12
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ca053cba3a55800800000000000000
+      internalID: 600566083435408533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16_Naturkundemuseum_Bildschirm_transparent.width-500_25
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 12
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6755c6f8069c5ae0800000000000000
+      internalID: -1559206405733001366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      16_Naturkundemuseum_Bildschirm_transparent.width-500_0: -7468999184526583733
+      16_Naturkundemuseum_Bildschirm_transparent.width-500_1: -2040939746003733382
+      16_Naturkundemuseum_Bildschirm_transparent.width-500_10: 4055458522287984170
+      16_Naturkundemuseum_Bildschirm_transparent.width-500_11: -675069768431339176
+      16_Naturkundemuseum_Bildschirm_transparent.width-500_12: -6084609038302361193
+      16_Naturkundemuseum_Bildschirm_transparent.width-500_13: -468376336510995386
+      16_Naturkundemuseum_Bildschirm_transparent.width-500_14: -7049773673430791819
+      16_Naturkundemuseum_Bildschirm_transparent.width-500_15: -6199050621240645250
+      16_Naturkundemuseum_Bildschirm_transparent.width-500_16: 9208713277884858597
+      16_Naturkundemuseum_Bildschirm_transparent.width-500_17: 6029869755573664606
+      16_Naturkundemuseum_Bildschirm_transparent.width-500_18: 5054970322103320624
+      16_Naturkundemuseum_Bildschirm_transparent.width-500_19: -1206455727583569349
+      16_Naturkundemuseum_Bildschirm_transparent.width-500_2: 2009862905246018975
+      16_Naturkundemuseum_Bildschirm_transparent.width-500_20: -6428842598707939114
+      16_Naturkundemuseum_Bildschirm_transparent.width-500_21: -4584554995298233992
+      16_Naturkundemuseum_Bildschirm_transparent.width-500_22: 6750267485211448118
+      16_Naturkundemuseum_Bildschirm_transparent.width-500_23: -1782848921808412179
+      16_Naturkundemuseum_Bildschirm_transparent.width-500_24: 600566083435408533
+      16_Naturkundemuseum_Bildschirm_transparent.width-500_25: -1559206405733001366
+      16_Naturkundemuseum_Bildschirm_transparent.width-500_3: -7998759930985732200
+      16_Naturkundemuseum_Bildschirm_transparent.width-500_4: 4947360134748971894
+      16_Naturkundemuseum_Bildschirm_transparent.width-500_5: -1968885387663769166
+      16_Naturkundemuseum_Bildschirm_transparent.width-500_6: 5222078611826671419
+      16_Naturkundemuseum_Bildschirm_transparent.width-500_7: 6738910306343146569
+      16_Naturkundemuseum_Bildschirm_transparent.width-500_8: 4244990143987149142
+      16_Naturkundemuseum_Bildschirm_transparent.width-500_9: -962225508485213485
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
